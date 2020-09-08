@@ -4,7 +4,7 @@ I’m Nathan. My website is [nathanherald.com](https://nathanherald.com) (the so
 
 ## I ❤️ GH
 
-I’ve been using GitHub since before it was public, I have a very low user ID ([179](https://api.github.com/users/myobie)), I’ve worked at GitHub in the past, and I have a lot of super old public repos I am embarrassed about. Just to say: I like GitHub and use it everyday. 
+I’ve been using GitHub since before it was public, I have a very low user ID ([179](https://api.github.com/users/myobie)), I’ve worked at GitHub in the past, and I have a lot of super old public repos I am embarrassed about. All that just to say: I like GitHub and use it everyday. 
 
 **I am not a programmer, but I've pretended to be one for a while.** I’ve even been an “architect” although I hate that title. I see myself as a designer who tries envision systems of working between computers and humans. Programming (along with other skills, tools, and other people) is something which can help me build the things I see in my mind.
 
